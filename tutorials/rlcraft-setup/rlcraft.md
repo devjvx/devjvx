@@ -1,4 +1,4 @@
-**RLCraft Installation Tutorial thru TLauncher**
+**RLCraft Installation Tutorial**
 
 **STEP 1:** Open TLauncher
 
