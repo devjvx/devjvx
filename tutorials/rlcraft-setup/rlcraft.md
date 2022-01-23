@@ -2,7 +2,7 @@
 
 **STEP 1:** Open TLauncher
 
-[[images/1.png]]
+(https://github.com/devjvx/devjvx/blob/main/tutorials/rlcraft-setup/images/1.png)
 
 **STEP 2:** Go to TLMods
 
