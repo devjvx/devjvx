@@ -30,7 +30,7 @@
 
 **STEP 8:** Open the folder %appdata%\.minecraft\versions\RLCraft 1.12.2 - Release v2.9
 
-![8(https://github.com/devjvx/devjvx/blob/main/tutorials/rlcraft-setup/images/8.png)
+![8](https://github.com/devjvx/devjvx/blob/main/tutorials/rlcraft-setup/images/8.png)
 
 **STEP 9:** Export the files in RLCraft.rar to the folder
 
